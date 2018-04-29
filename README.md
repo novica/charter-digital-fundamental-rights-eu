@@ -1,5 +1,5 @@
 # Charter of Digital Fundamental Rights of the European Uninon (Macedonian translation)
-This is an unoficial translation of the unoficial english translation available here: https://digitalcharta.eu/sprachen/
+This is an unoficial translation of the unoficial English translation available here: https://digitalcharta.eu/sprachen/
 
 ## Повелба за основни дигитални права на Европската унија
 (Ревизија од 2018)
